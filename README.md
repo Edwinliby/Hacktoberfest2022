@@ -1,6 +1,19 @@
+<h1 align="center">HacktoberFest 2022</h1>
+
 ![Hacktoberfest 2021](logo.png)
 
-# ❓ What's Hacktoberfest 2022?
+<p align="center">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/Edwinliby/Hacktoberfest2022">
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/Edwinliby/Hacktoberfest2022">
+   <img alt="contributors" src="https://img.shields.io/github/contributors/Edwinliby/Hacktoberfest2022">
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Edwinliby/Hacktoberfest2022">
+</p>
+
+# Contributers 🏆
+
+![](https://contrib.rocks/image?repo=Edwinliby/Hacktoberfest2022)
+
+# What's Hacktoberfest 2022❓
 
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2022.
 
@@ -10,28 +23,28 @@ If you’ve never contributed to open source before, this is the perfect time to
 
 ---
 
-# 👕 Why Should I Contribute?
+# Why Should I Contribute❓
 
 Hacktoberfest has a simple and plain moto.
 
 > Support open source and earn a limited edition T-shirt!
 
 So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.  
+
 **Wait there's more!**
-
-
 ---
 
-# 👍 This is Awesome! How Can I Contribute?
+# How Can I Contribute❓
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 1. **Star this repository.**
-2. **Navigate To index.html or main.css do so crazy contribution file**
-3. **Edit the file and insert the line of text in the specified location in the format as given in comment .**
-4. **Now click on Propose button.**
-5. **Create a new pull request.**
-6. **Wait for your Pull Request to be reviewed and merged!**
-7. **Enjoy and welcome to Hacktoberfest 2021 and Keep Contributing :)**
+2. **Fork the repo**
+3. **Add any language file python, C, C++, Java, etc...**
+> Add valid code only. <br>
+> Don't push the code that is already present.  
+4. **Create a new pull request.**
+5. **Wait for your Pull Request to be reviewed and merged!**
+6. **Enjoy and welcome to Hacktoberfest 2022 and Keep Contributing :)**
 
 > You Can Upload Coded Projects In the Codes Directory 
 

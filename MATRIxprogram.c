@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 
 int main(void)
@@ -81,9 +80,6 @@ Here the three loops have been used which stores the multiplicative value of fst
       for (d = 0; d < bb; d++)
         printf( " %d \t", mul[c][d]);
 
-report this ad
-© 2009 — 2022 W3schools® of Technology.
-About UsContact UsCopyrightPrivacy Policy
 
  
 

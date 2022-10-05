@@ -29,38 +29,40 @@ Hacktoberfest has a simple and plain moto.
 
 > Support open source and earn a limited edition T-shirt!
 
-So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.  
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.
 
-**Wait there's more!**
----
+## **Wait there's more!**
 
 # How Can I Contribute❓
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
+
 1. **Star this repository.**
 2. **Fork the repo**
 3. **Add any language file python, C, C++, Java, etc...**
-> Add valid code only. <br>
-> Don't push the code that is already present.  
+   > Add valid code only. <br>
+   > Don't push the code that is already present.
 4. **Create a new pull request.**
 5. **Wait for your Pull Request to be reviewed and merged!**
 6. **Enjoy and welcome to Hacktoberfest 2022 and Keep Contributing :)**
 
-> You Can Upload Coded Projects In the Codes Directory 
-
+> You Can Upload Coded Projects In the Codes Directory
 
 ---
+
 ## Code Of Conduct
+
 **Examples of behavior that contributes to creating a positive environment :**
+
 - Using welcoming and inclusive language
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
 - Being respectful of differing viewpoints and experiences
 
-
-
 **Examples of unacceptable behavior by participants include:**
+
 - Trolling, insulting/derogatory comments, and personal or political attacks
 - Public or private harassment
 - Publishing others' private information, such as a physical or electronic address, without explicit permission
+
 ---

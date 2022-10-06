@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin|Lato");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap");
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background: black;
+  font-family: "Cabin", sans-serif;
+}
+.center {
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+}
+p {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: oblique;
+}
+.Input {
+  font: 20px Verdana;
+  font-style: italic;
+  border: 1px solid orange;
+  width: 300px;
+}
+h1 {
+  align-content: center;
+}
+h2 {
+  font-style: italic;
+  color: crimson;
+}
+h4 {
+  color: antiquewhite;
+}
+.Submit {
+  color: blanchedalmond;
+  background-color: #273c75;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+}
+textarea {
+  width: 900px;
+  height: 40px;
+  resize: none;
+}

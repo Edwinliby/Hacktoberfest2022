@@ -45,14 +45,14 @@ int main()
 {
     int n, arr[max];
     scanf("%d",&n);
-    for (int i = 0; i < n; i++){
+    for (int i = 0; i < n; ++i){
         scanf("%d", &arr[i]);
     }        
  
     insertionSort(arr, n);
  
     printf("Sorted array: \n");
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; ++i)
         printf("%d ",arr[i]);
  
     return 0;

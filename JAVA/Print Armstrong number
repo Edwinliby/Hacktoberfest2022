@@ -1,0 +1,28 @@
+<!-- Java Program to print armstrong number-->
+
+import java.util.Scanner;
+
+class armstrong
+{
+	public static void main(String args[])
+	{
+		int num,sum=0,temp,rem;
+		System.out.println("Enter a  number");
+		Scanner sc = new Scanner(System.in);
+		num=sc.nextInt();
+		temp=num;
+		
+		while(num!=0)
+		{
+			rem = num%10; 	//32  1
+			num=num/10;          //37
+			sum=rem*rem*rem+sum;
+			
+		}
+		if(temp==sum)
+		System.out.println("Number is an armstrong");
+		
+		else
+		System.out.println("Number is not an armstrong");
+	}
+}

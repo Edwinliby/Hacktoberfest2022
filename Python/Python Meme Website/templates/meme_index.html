@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Python Reddit Meme Site</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="refresh" content="30;url=http://127.0.0.1:80" />
+        <style>
+            body {
+                background-color: #1a1b29;
+            }
+            h1 {
+                text-align: center;
+                color: whitesmoke;
+            }
+            p {
+                text-align: center;
+                color: whitesmoke;
+            }
+            img {
+                width: 500px !important;
+                height: 500px !important;
+            }
+        </style> 
+    </head>
+    <body>
+        <h1>Reddit Meme Fetcher Made With Python</h1>
+        <p>This Meme will refresh in 30 seconds!</p>
+        <p><img src="{{ meme_pic }}"></img></p>
+        <p>current subreddit: {{ subreddit }}</p>
+    </body>
+</html>

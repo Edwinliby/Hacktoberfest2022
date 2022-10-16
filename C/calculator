@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+int main()
+{
+    float a, b;
+    char ch;
+    printf("Choose your operater{ +,-,/,* } : ");
+    scanf("%c", &ch);
+    printf("enter two numbers: ");
+    scanf("%f%f", &a, &b);
+    switch (ch)
+    {
+        case '+':
+        {   
+            printf("Your answear is : %f", a+b);
+            break;
+        }
+        case '-':
+        {
+            printf("Your answear is : %f", a-b);
+            break;
+        }   
+        case '/':
+        {
+            printf("Your answear is : %f", a/b);
+            break;
+        }
+
+        case '*':
+        {
+            printf("Your answear is : %f", a*b);
+            break;
+        }
+        default:("Wrong operater");
+    }
+return 0;
+}

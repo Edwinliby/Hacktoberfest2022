@@ -9,7 +9,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Edwinliby/Hacktoberfest2022">
 </p>
 
-# Contributers 🏆
+# CONTRIBUTORS 🏆
 
 ![](https://contrib.rocks/image?repo=Edwinliby/Hacktoberfest2022)
 
@@ -37,14 +37,14 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 
-1. **Star this repository.**
-2. **Fork the repo**
-3. **Add any language file python, C, C++, Java, etc...**
+1. **Star This Repository.**
+2. **Fork The Repo**
+3. **Add Any Language File Python, C, C++, Java, etc...**
    > Add valid code only. <br>
    > Don't push the code that is already present.
-4. **Create a new pull request.**
-5. **Wait for your Pull Request to be reviewed and merged!**
-6. **Enjoy and welcome to Hacktoberfest 2022 and Keep Contributing :)**
+4. **Create A New Pull Request.**
+5. **Wait For Your Pull Request To Be Reviewed And Merged!**
+6. **Enjoy And Welcome To HacktoberFest 2022 and Keep Contributing :)**
 
 > You Can Upload Coded Projects In the Codes Directory
 

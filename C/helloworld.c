@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("Hello, World!\n");
+    printf("Hello, Hacktoberfest 2022!\n");
 
     return 0;
 }
